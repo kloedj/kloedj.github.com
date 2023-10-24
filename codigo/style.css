@@ -1,0 +1,11 @@
+/* CSS files add styling rules to your content */
+
+body {
+    margin: 0em;
+}
+
+.cover {
+    height:400px;
+    background-color:rgb(255, 22, 22);
+    color:white;
+}
